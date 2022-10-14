@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#navbar {
+    background-color: antiquewhite;
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px 0 20px;
+}
+
+.section {
+    height: 800px;
+}
+
+#aboutme {
+    background-color: darkgray;
+}
+
+#projects {
+    background-color: blueviolet;
+}
+
+#resume {
+    background-color: tomato;
+}
